@@ -38,7 +38,7 @@
 ![](./images/Model2_NoOverfitting.PNG)
 
 ## Step 3 - Add Batch Normalization
-
+[Link to notebook](./notebooks/MNISTClassifier_Step3_AddBatchNorm.ipynb) 
 **Target** : 
 1.   Add Batch Normalization to increase model performance
 
@@ -51,7 +51,7 @@
 1.  Model is slightly overfitting; maybe its time for regularization 
 
 ## Step 4 - Add Dropout
-
+[Link to notebook](./notebooks/MNISTClassifier_Step4_AddDropout.ipynb) 
 **Target** : 
 1.   Add DropOut to avoid overfitting
 
@@ -65,6 +65,7 @@
 2.  There is scope for increasing the capacity of the model with more layers
 
 ## Step 5 - Add layers
+[Link to notebook](./notebooks/MNISTClassifier_Step5_AddLayers.ipynb) 
 **Target** : 
 1.   Add layer at the end of architecture to increase the capacity
 
@@ -78,7 +79,7 @@
 2.  It can be seen that the accuracy is increasing with epochs but the increase is slow. The learning rate needs to be increased slightly
 
 ## Step 6 - Modify learning rate
-
+[Link to notebook](./notebooks/MNISTClassifier_Step6_IncreaseLR.ipynb) 
 **Target** : 
 1.   Add layer at the end of architecture to increase the capacity
 
@@ -93,7 +94,7 @@
 1.  Try data augmentation to see if further improvement is possible 
 
 ## Step 7 
-
+[Link to notebook](./notebooks/MNISTClassifier_Step7_DataAugmentation.ipynb) 
 
 **Target** : 
 1.   Slightly rotate (randomly selected) images in the training dataset 
