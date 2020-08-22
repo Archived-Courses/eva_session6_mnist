@@ -2,6 +2,7 @@
 
 ## Step 1 - Setup
 [Link to notebook](./notebooks/MNISTClassifier_Step1_Setup.ipynb) 
+
 **Target** : First step is to get a basic structure of code working.
 
 **Results** : 
@@ -16,6 +17,7 @@
 
 ## Step 2 - Reduce number of parameters
 [Link to notebook](./notebooks/MNISTClassifier_Step2_ReduceParameters.ipynb) 
+
 **Target** : 
 1.   Reduce the number of parameters and make the model lighter with:
 * Reduce the number of filters
@@ -39,6 +41,7 @@
 
 ## Step 3 - Add Batch Normalization
 [Link to notebook](./notebooks/MNISTClassifier_Step3_AddBatchNorm.ipynb) 
+
 **Target** : 
 1.   Add Batch Normalization to increase model performance
 
@@ -52,6 +55,7 @@
 
 ## Step 4 - Add Dropout
 [Link to notebook](./notebooks/MNISTClassifier_Step4_AddDropout.ipynb) 
+
 **Target** : 
 1.   Add DropOut to avoid overfitting
 
@@ -66,6 +70,7 @@
 
 ## Step 5 - Add layers
 [Link to notebook](./notebooks/MNISTClassifier_Step5_AddLayers.ipynb) 
+
 **Target** : 
 1.   Add layer at the end of architecture to increase the capacity
 
@@ -80,6 +85,7 @@
 
 ## Step 6 - Modify learning rate
 [Link to notebook](./notebooks/MNISTClassifier_Step6_IncreaseLR.ipynb) 
+
 **Target** : 
 1.   Add layer at the end of architecture to increase the capacity
 
